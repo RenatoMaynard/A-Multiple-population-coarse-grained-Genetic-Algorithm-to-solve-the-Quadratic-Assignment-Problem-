@@ -11,3 +11,4 @@ Algorithms with GPU Computation: A Case Study"](https://dl.acm.org/doi/10.1145/1
 ## Acknowledgments
 The instances used in this project are sourced from [QAPLIB](https://coral.ise.lehigh.edu/data-sets/qaplib/), a benchmark library for Quadratic Assignment Problems. Special thanks to the authors of the paper ["Solving Quadratic Assignment Problems by Genetic
 Algorithms with GPU Computation: A Case Study"](https://dl.acm.org/doi/10.1145/1570256.1570355).
+
